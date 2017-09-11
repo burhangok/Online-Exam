@@ -1,0 +1,136 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+
+.mn2 ul li a:hover {
+color:#273746 !important;
+}
+
+.homepage-hero-module {
+    border-right: none;
+    border-left: none;
+    position: relative;
+	
+}
+.no-video .video-container video,
+.touch .video-container video {
+    display: none;
+	
+}
+.no-video .video-container .poster,
+.touch .video-container .poster {
+    display: block !important;
+	
+}
+.video-container {
+    position: relative;
+    bottom: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background: #000;
+	
+}
+.video-container .poster img {
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+.video-container .filter {
+    z-index: 100;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.6);
+    width: 100%;
+}
+.video-container video {
+    position: absolute;
+    z-index: 0;
+    bottom: 0;
+	background: rgba(0, 0, 0, 0.6);
+}
+.video-container video.fillWidth {
+    width: 100%;
+	
+}
+.prgp{
+font-size:20px !important;
+font-family: "Roboto", Helvetica, Arial, sans-serif;
+}
+.prgp2{
+font-size:16px !important;
+font-family: "Roboto", Helvetica, Arial, sans-serif;
+}
+.blue{
+	background-color:#1e8ec3;
+	color:#fff;
+	padding:40px 0px;
+}
+.bottm{
+	
+	background-color:#EAECEE;
+}
+.link{
+color:#000;
+}
+.link:hover{
+color:#3c8dbc;
+}
+.mobilebtn{
+	background-color:#3c8dbc;
+}
+.ikbtn{
+	bottom:0;
+	right:0;
+	margin-right:5px;
+	padding:5px 100px;
+}
+.sys{
+	background: url("../images/ptn-bg.png") repeat;
+	padding:20px 0px;
+}
+.ikmn{
+	border-left:1px solid #ccc;
+	margin-left:10px;
+}
+.ikmn a{
+	margin-left:10px;
+}
+.left-menu a{
+	color:#000;
+	transition:ease-in-out all 0.3s;
+}
+.left-menu li:hover a{
+	color:#3d8dbc;
+}
+.panel-title a:hover{
+	color:#fff;
+}
+.panel-title a:focus{
+	color:#fff;
+}
+.right{
+	right:0px;
+}
+.icon-facebook{
+	transition:ease-in-out all 0.2s;
+}
+.facebook:hover .icon-facebook{
+	color:#3b5998;
+}
+.icon-google-plus{
+	transition:ease-in-out all 0.2s;
+}
+.gplus:hover .icon-google-plus{
+	color:#dd4b39;
+}
+.icon-twitter{
+	transition:ease-in-out all 0.2s;
+}
+.twitter:hover .icon-twitter{
+	color:#55acee;
+}
+.icon-envelope{
+	transition:ease-in-out all 0.2s;
+}
+.email:hover .icon-envelope{
+	color:#F4D03F;
+}

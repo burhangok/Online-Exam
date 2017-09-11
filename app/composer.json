@@ -1,0 +1,26 @@
+{
+  "name": "burhangok/onlinesinav",
+  "description": "Online Deneme Sinavi, Online Exam",
+  "homepage": "http://bqbsoft.com/",
+  "keywords": [
+    "online",
+    "sınav",
+    "sürücü",
+    "adayı",
+    "ehliyet",
+    "deneme",
+    "sınavı",
+    "web",
+    "sürücü"
+  ],
+  "authors": [
+    {
+      "name": "Burhan GÖK",
+      "email": "burhangok@yahoo.com"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "issues": "https://github.com/burhangok"
+  }
+}
